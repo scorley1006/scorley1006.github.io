@@ -1,4 +1,4 @@
-# title
+# sam corley 
 ## subtitle
 
 write a paragraph about your chosen topic here. what is important about your topic? why do you care about it? why do you think other people should care about it?
@@ -7,9 +7,10 @@ make sure to press enter twice (i.e. leave a blank line between paragraphs) to c
 
 here's a [great guide](https://guides.github.com/features/mastering-markdown/) on how to use markdown
 
-add some more content here! maybe some bulleted action items? 
-- action item 1
-- action item 2
+here's some of the things i did in high school
+- math team! 
+- water polo
+- techettes (girls' coding club)
 
 ## or you can make another section here?
 
